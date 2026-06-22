@@ -20803,7 +20803,7 @@ function cE() {
                     p.jsx("span", {
                       className:
                         "font-mono text-[9px] tracking-widest text-matrix-teal uppercase",
-                      children: "Meme Architect",
+                      children: "Woke Mind Virus",
                     }),
                   ],
                 }),
