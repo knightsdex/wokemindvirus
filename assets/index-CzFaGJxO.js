@@ -22218,7 +22218,7 @@ function mE() {
                         ],
                       }),
                       p.jsxs("a", {
-                        href: "https://dexscreener.com/ethereum/0xd9aE6f6667798Cd6E8F371048A7809374a5e8a34",
+                        href: "https://dexscreener.com/ethereum/0xComingSoon",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className:
@@ -22273,7 +22273,7 @@ function mE() {
                   p.jsx("div", {
                     id: "dexscreener-embed",
                     children: p.jsx("iframe", {
-                      src: "https://dexscreener.com/ethereum/0xd9aE6f6667798Cd6E8F371048A7809374a5e8a34?embed=1&loadChartSettings=0&chartLeftToolbar=0&chartTheme=dark&theme=dark&chartStyle=0&chartType=usd&interval=15",
+                      src: "https://dexscreener.com/ethereum/0xComingSoon?embed=1&loadChartSettings=0&chartLeftToolbar=0&chartTheme=dark&theme=dark&chartStyle=0&chartType=usd&interval=15",
                       title: "DexScreener Live Index Chart",
                       referrerPolicy: "no-referrer",
                     }),
