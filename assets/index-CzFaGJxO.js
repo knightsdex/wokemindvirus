@@ -20729,14 +20729,14 @@ function rA(i, a, r, s) {
       title: "Navigate to Uniswap Dex-grid",
       description:
         "Connect to Uniswap, insert the official $WOKE contract address, and prepare to swap.",
-      command: "$ connect --dex uniswap --pair VITALIEN-ETH",
+      command: "$ connect --dex uniswap --pair WOKE-ETH",
       output: "Bridge established. Liquidity pool found: 0x4f594...aliens",
     },
     {
       title: "Transmute ETH to $WOKE",
       description:
         "Perform the swap, adjust slippage if necessary (0% recommended), and claim your citizenship of the Ethereum motherboard.",
-      command: "$ swap --from ETH --to VITALIEN --slippage 0.5%",
+      command: "$ swap --from ETH --to WOKE --slippage 0.5%",
       output: "Intergalactic transmute complete. Welcome, alien architect!",
     },
   ],
