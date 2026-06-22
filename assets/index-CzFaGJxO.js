@@ -20842,7 +20842,7 @@ function cE() {
                   children: "TELEGRAM",
                 }),
                 p.jsxs("a", {
-                  href: "#how-to-buy",
+                  href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
                   className:
                     "flex items-center space-x-1.5 bg-gradient-to-r from-alien-lime to-matrix-teal text-obsidian font-display font-medium text-xs px-4 py-2.5 rounded-xl hover:scale-105 transition-all duration-300 hover:shadow-[0_0_20px_rgba(0,255,136,0.4)]",
                   children: [
@@ -20966,7 +20966,7 @@ function cE() {
                         ],
                       }),
                       p.jsxs("a", {
-                        href: "#how-to-buy",
+                        href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
                         onClick: () => a(!1),
                         className:
                           "flex items-center justify-center space-x-2 w-full bg-alien-lime text-obsidian font-display font-semibold text-center py-3.5 rounded-xl shadow-[0_0_15px_rgba(0,255,136,0.3)] hover:scale-102 transition-transform",
@@ -21229,7 +21229,7 @@ function fE() {
                   className: "flex flex-wrap gap-4 pt-3",
                   children: [
                     p.jsxs("a", {
-                      href: "#how-to-buy",
+                      href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
                       className:
                         "flex items-center space-x-2 bg-gradient-to-r from-[#00ff66] to-[#00f0ff] hover:to-[#00ff66] text-obsidian font-display font-semibold transition-all duration-300 hover:scale-[1.03] px-6 py-4 rounded-xl shadow-[0_0_20px_rgba(0,255,102,0.3)] cursor-pointer",
                       children: [
