@@ -22704,7 +22704,7 @@ function yE() {
                   p.jsx("span", {
                     className:
                       "font-mono text-[10px] text-gray-500 tracking-wider",
-                    children: "INTERSTELLAR CONTRACT REFERENCE",
+                    children: "Contract Address",
                   }),
                   p.jsxs("div", {
                     className:
