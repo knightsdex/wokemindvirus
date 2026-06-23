@@ -21644,10 +21644,6 @@ function dE() {
                         className:
                           "p-5 text-left space-y-1.5 relative z-20 bg-[#020408]/90",
                         children: [
-                          p.jsx("span", {
-                            className: "font-mono text-[9px] text-gray-500",
-                            children: "// CAPTURED BY SATELLITE ORBITER-7",
-                          }),
                           p.jsx("h4", {
                             className:
                               "font-display font-medium text-base text-white",
@@ -21702,11 +21698,6 @@ function dE() {
                         className:
                           "p-5 text-left space-y-1.5 relative z-20 bg-[#020408]/90",
                         children: [
-                          p.jsx("span", {
-                            className: "font-mono text-[9px] text-gray-500",
-                            children:
-                              "// CAPTURED BY HIGH-ALTITUDE NEURAL ARRAY",
-                          }),
                           p.jsx("h4", {
                             className:
                               "font-display font-medium text-base text-white",
@@ -21760,11 +21751,6 @@ function dE() {
                         className:
                           "p-5 text-left space-y-1.5 relative z-20 bg-[#020408]/90",
                         children: [
-                          p.jsx("span", {
-                            className: "font-mono text-[9px] text-gray-500",
-                            children:
-                              "// CAPTURED BY HIGH-ALTITUDE NEURAL ARRAY",
-                          }),
                           p.jsx("h4", {
                             className:
                               "font-display font-medium text-base text-white",
@@ -21818,11 +21804,6 @@ function dE() {
                         className:
                           "p-5 text-left space-y-1.5 relative z-20 bg-[#020408]/90",
                         children: [
-                          p.jsx("span", {
-                            className: "font-mono text-[9px] text-gray-500",
-                            children:
-                              "// CAPTURED BY HIGH-ALTITUDE NEURAL ARRAY",
-                          }),
                           p.jsx("h4", {
                             className:
                               "font-display font-medium text-base text-white",
