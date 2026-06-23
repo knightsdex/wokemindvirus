@@ -20697,7 +20697,7 @@ function rA(i, a, r, s) {
     },
     {
       label: "Liquidity Status",
-      value: "LP Burnt & Locked",
+      value: "LP Burnt",
       description:
         "Liquidity pooled is permanently locked on Uniswap with keys tossed into a black hole.",
       glowColor: "purple",
@@ -21993,7 +21993,7 @@ function hE() {
                           p.jsx("span", {
                             className:
                               "font-mono text-[9px] text-matrix-teal uppercase tracking-widest mt-1",
-                            children: "Locked LP",
+                            children: "Burned LP",
                           }),
                         ],
                       }),
